@@ -1,2 +1,2 @@
-# soduko-solver
- Soduko game & visual solver. Built in Python with Pygame.
+# Sudoku Solver
+ Sudoku game & visual solver. Built in Python with PyGame.
